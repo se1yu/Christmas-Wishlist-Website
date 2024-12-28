@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: rgb(171, 208, 224);
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    max-width: 100%;
+    padding: 10px;
+    background-color: rgb(242, 245, 248,0.6);
+    text-align: center;
+    font-size: large;
+    color:rgb(24, 46, 75);
+    margin-bottom: 40px;
+}
+
+.list{
+    
+}
+
